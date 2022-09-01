@@ -1,0 +1,11 @@
+C:\servicios\lapulgada\LaPulgaServicios\LaPulgaServicios\bin\Debug\LaPulgaServicios.exe.config
+C:\servicios\lapulgada\LaPulgaServicios\LaPulgaServicios\bin\Debug\LaPulgaServicios.exe
+C:\servicios\lapulgada\LaPulgaServicios\LaPulgaServicios\bin\Debug\LaPulgaServicios.pdb
+C:\servicios\lapulgada\LaPulgaServicios\LaPulgaServicios\bin\Debug\MySql.Data.dll
+C:\servicios\lapulgada\LaPulgaServicios\LaPulgaServicios\bin\Debug\Newtonsoft.Json.dll
+C:\servicios\lapulgada\LaPulgaServicios\LaPulgaServicios\bin\Debug\Newtonsoft.Json.xml
+C:\servicios\lapulgada\LaPulgaServicios\LaPulgaServicios\obj\Debug\LaPulgaServicios.csproj.AssemblyReference.cache
+C:\servicios\lapulgada\LaPulgaServicios\LaPulgaServicios\obj\Debug\LaPulgaServicios.csproj.CoreCompileInputs.cache
+C:\servicios\lapulgada\LaPulgaServicios\LaPulgaServicios\obj\Debug\LaPulgaServicios.csproj.CopyComplete
+C:\servicios\lapulgada\LaPulgaServicios\LaPulgaServicios\obj\Debug\LaPulgaServicios.exe
+C:\servicios\lapulgada\LaPulgaServicios\LaPulgaServicios\obj\Debug\LaPulgaServicios.pdb
